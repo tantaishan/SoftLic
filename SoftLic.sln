@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoftLicSDK", "SoftLicSDK\SoftLicSDK.vcxproj", "{0D350AEA-E69A-47A1-AF02-524EB3F59F58}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LicenseBuilder", "LicenseBuilder\LicenseBuilder.vcxproj", "{EBAADB3A-B181-4B80-A733-54D5F3774B46}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoftLicTest", "SoftLicTest\SoftLicTest.vcxproj", "{76879064-F1CE-475E-9880-71D55CD2A20D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D350AEA-E69A-47A1-AF02-524EB3F59F58}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0D350AEA-E69A-47A1-AF02-524EB3F59F58}.Debug|Win32.Build.0 = Debug|Win32
+		{0D350AEA-E69A-47A1-AF02-524EB3F59F58}.Release|Win32.ActiveCfg = Release|Win32
+		{0D350AEA-E69A-47A1-AF02-524EB3F59F58}.Release|Win32.Build.0 = Release|Win32
+		{EBAADB3A-B181-4B80-A733-54D5F3774B46}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EBAADB3A-B181-4B80-A733-54D5F3774B46}.Debug|Win32.Build.0 = Debug|Win32
+		{EBAADB3A-B181-4B80-A733-54D5F3774B46}.Release|Win32.ActiveCfg = Release|Win32
+		{EBAADB3A-B181-4B80-A733-54D5F3774B46}.Release|Win32.Build.0 = Release|Win32
+		{76879064-F1CE-475E-9880-71D55CD2A20D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{76879064-F1CE-475E-9880-71D55CD2A20D}.Debug|Win32.Build.0 = Debug|Win32
+		{76879064-F1CE-475E-9880-71D55CD2A20D}.Release|Win32.ActiveCfg = Release|Win32
+		{76879064-F1CE-475E-9880-71D55CD2A20D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
